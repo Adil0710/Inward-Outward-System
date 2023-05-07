@@ -1,0 +1,94 @@
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Login.resources
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.exe
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Inward.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outward.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Add_Subject.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Add_Assigned_To.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Main_Menu.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.inreport.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.ModeWise.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe.manifest
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.application
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.exe.manifest
+C:\Users\ASUS\documents\visual studio 2013\Projects\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.application
+E:\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe.config
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.exe
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.pdb
+E:\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe.manifest
+E:\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.application
+E:\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe
+E:\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.pdb
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Add_Assigned_To.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Add_Subject.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.inreport.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Inward.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Login.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Main_Menu.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.ModeWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outward.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Properties.Resources.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.csproj.GenerateResource.Cache
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.exe.manifest
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.application
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.DateWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.AcademicYearWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.SubjectWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.CityWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.FacultyWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Outreport.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outaddresswise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outdatewise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outfacultywise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outcitywise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outmodewise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outsubwise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outwhomsentwise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outyrwise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.WrecWise.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.AboutUs.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.ContactUs.resources
+E:\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.csprojResolveAssemblyReference.cache
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe.config
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.exe
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.pdb
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe.manifest
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.application
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.exe
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\bin\Debug\Inword_Outword.pdb
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.csprojResolveAssemblyReference.cache
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.AboutUs.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.AcademicYearWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Add_Assigned_To.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Add_Subject.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.CityWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.ContactUs.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outaddresswise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outdatewise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outfacultywise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outcitywise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outmodewise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outsubwise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outwhomsentwise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.DateWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.FacultyWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.inreport.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Inward.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Login.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Main_Menu.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.ModeWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Outreport.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outward.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.outyrwise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.Properties.Resources.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.SubjectWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.WrecWise.resources
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.csproj.GenerateResource.Cache
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.exe.manifest
+F:\C#Project\Inword_Outword\Inword_Outword\Inword_Outword\obj\Debug\Inword_Outword.application
